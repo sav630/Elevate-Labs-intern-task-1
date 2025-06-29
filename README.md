@@ -53,4 +53,7 @@ To view the site locally:
 
 1. Download or clone the repo
 2. Open `index.html` in any browser
+https://github.com/user-attachments/assets/9437caf3-569a-4d7e-bc9b-c76d6e94bb7c
+
+
 
